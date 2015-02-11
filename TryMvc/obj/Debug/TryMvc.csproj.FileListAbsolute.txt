@@ -53,3 +53,6 @@ C:\Users\Diego\Documents\projetos\TryMvc\TryMvc\bin\Microsoft.Owin.Security.Micr
 C:\Users\Diego\Documents\projetos\TryMvc\TryMvc\obj\Debug\TryMvc.csprojResolveAssemblyReference.cache
 C:\Users\Diego\Documents\projetos\TryMvc\TryMvc\obj\Debug\TryMvc.dll
 C:\Users\Diego\Documents\projetos\TryMvc\TryMvc\obj\Debug\TryMvc.pdb
+C:\Users\Diego\Documents\projetos\TryMvc\TryMvc\obj\Debug\TryMvc.Migrations.Initial.resources
+C:\Users\Diego\Documents\projetos\TryMvc\TryMvc\obj\Debug\TryMvc.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\projetos\TryMvc\TryMvc\obj\Debug\TryMvc.Migrations.Rating.resources
